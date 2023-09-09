@@ -1,0 +1,12 @@
+C:\Session3\OOP2\Module 10 - Patron de conception 02\Module 10 - Patron de conception 02\bin\Debug\Module 10 - Patron de conception 02.exe.config
+C:\Session3\OOP2\Module 10 - Patron de conception 02\Module 10 - Patron de conception 02\bin\Debug\Module 10 - Patron de conception 02.exe
+C:\Session3\OOP2\Module 10 - Patron de conception 02\Module 10 - Patron de conception 02\bin\Debug\Module 10 - Patron de conception 02.pdb
+C:\Session3\OOP2\Module 10 - Patron de conception 02\Module 10 - Patron de conception 02\obj\Debug\Module 10 - Patron de conception 02.csproj.AssemblyReference.cache
+C:\Session3\OOP2\Module 10 - Patron de conception 02\Module 10 - Patron de conception 02\obj\Debug\Module 10 - Patron de conception 02.csproj.SuggestedBindingRedirects.cache
+C:\Session3\OOP2\Module 10 - Patron de conception 02\Module 10 - Patron de conception 02\obj\Debug\Module_10___Patron_de_conception_02.fClient.resources
+C:\Session3\OOP2\Module 10 - Patron de conception 02\Module 10 - Patron de conception 02\obj\Debug\Module_10___Patron_de_conception_02.fPrincipale.resources
+C:\Session3\OOP2\Module 10 - Patron de conception 02\Module 10 - Patron de conception 02\obj\Debug\Module_10___Patron_de_conception_02.Properties.Resources.resources
+C:\Session3\OOP2\Module 10 - Patron de conception 02\Module 10 - Patron de conception 02\obj\Debug\Module 10 - Patron de conception 02.csproj.GenerateResource.cache
+C:\Session3\OOP2\Module 10 - Patron de conception 02\Module 10 - Patron de conception 02\obj\Debug\Module 10 - Patron de conception 02.csproj.CoreCompileInputs.cache
+C:\Session3\OOP2\Module 10 - Patron de conception 02\Module 10 - Patron de conception 02\obj\Debug\Module 10 - Patron de conception 02.exe
+C:\Session3\OOP2\Module 10 - Patron de conception 02\Module 10 - Patron de conception 02\obj\Debug\Module 10 - Patron de conception 02.pdb
