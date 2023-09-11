@@ -54,6 +54,7 @@
   <ItemGroup>
     <Compile Include="FactureModel.cs" />
     <Compile Include="FactureModelEvent.cs" />
+    <Compile Include="FactureModelEventType.cs" />
     <Compile Include="fClient.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -67,7 +68,9 @@
       <DependentUpon>fPrincipale.cs</DependentUpon>
     </Compile>
     <Compile Include="LigneFactureModel.cs" />
+    <Compile Include="ObservateurEcranCaissier.cs" />
     <Compile Include="ObservateurEcranClient.cs" />
+    <Compile Include="ObservateurFactureModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UnsubscriberFactureModel.cs" />

@@ -12,9 +12,13 @@ namespace Module_10___Patron_de_conception_02
 {
     public partial class fPrincipale : Form
     {
+        private FactureModel m_FactureModel = new FactureModel();
+        private fClient m_ecranClient;
+
         public fPrincipale()
         {
             InitializeComponent();
+            m_ecranClient = new fClient(m_FactureModel);
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -46,23 +50,13 @@ namespace Module_10___Patron_de_conception_02
         {
             if (tbDescription.Text != string.Empty && nudPrix.Value != 0 && nudQuantite.Value != 0)
             {
-                decimal total = nudPrix.Value * nudQuantite.Value;
-                string[] newRow = { tbDescription.Text, nudQuantite.Value.ToString(), nudPrix.Value.ToString(), total.ToString() };
-                DGVProduits.Rows.Add(newRow);
+                foreach(IObserver o in m)
             }
-            updateTotal();
         }
 
         private void tbTotal_TextChanged(object sender, EventArgs e)
         {
             ;
-        }
-
-        private void updateTotal()
-        {
-            decimal sum = 0;
-            sum += DGVProduits.Rows.Cast<DataGridViewRow>().Sum(t => Convert.ToDecimal(t.Cells[3].Value));
-            tbTotal.Text = sum.ToString();
         }
     
     }

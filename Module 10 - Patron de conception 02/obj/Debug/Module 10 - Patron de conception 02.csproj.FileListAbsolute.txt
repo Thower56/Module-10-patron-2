@@ -10,3 +10,15 @@ C:\Session3\OOP2\Module 10 - Patron de conception 02\Module 10 - Patron de conce
 C:\Session3\OOP2\Module 10 - Patron de conception 02\Module 10 - Patron de conception 02\obj\Debug\Module 10 - Patron de conception 02.csproj.CoreCompileInputs.cache
 C:\Session3\OOP2\Module 10 - Patron de conception 02\Module 10 - Patron de conception 02\obj\Debug\Module 10 - Patron de conception 02.exe
 C:\Session3\OOP2\Module 10 - Patron de conception 02\Module 10 - Patron de conception 02\obj\Debug\Module 10 - Patron de conception 02.pdb
+C:\Ecole\OOP2\Module-10-patron-2\Module 10 - Patron de conception 02\obj\Debug\Module 10 - Patron de conception 02.csproj.AssemblyReference.cache
+C:\Ecole\OOP2\Module-10-patron-2\Module 10 - Patron de conception 02\obj\Debug\Module 10 - Patron de conception 02.csproj.SuggestedBindingRedirects.cache
+C:\Ecole\OOP2\Module-10-patron-2\Module 10 - Patron de conception 02\obj\Debug\Module_10___Patron_de_conception_02.fClient.resources
+C:\Ecole\OOP2\Module-10-patron-2\Module 10 - Patron de conception 02\obj\Debug\Module_10___Patron_de_conception_02.fPrincipale.resources
+C:\Ecole\OOP2\Module-10-patron-2\Module 10 - Patron de conception 02\obj\Debug\Module_10___Patron_de_conception_02.Properties.Resources.resources
+C:\Ecole\OOP2\Module-10-patron-2\Module 10 - Patron de conception 02\obj\Debug\Module 10 - Patron de conception 02.csproj.GenerateResource.cache
+C:\Ecole\OOP2\Module-10-patron-2\Module 10 - Patron de conception 02\obj\Debug\Module 10 - Patron de conception 02.csproj.CoreCompileInputs.cache
+C:\Ecole\OOP2\Module-10-patron-2\Module 10 - Patron de conception 02\obj\Debug\Module 10 - Patron de conception 02.exe
+C:\Ecole\OOP2\Module-10-patron-2\Module 10 - Patron de conception 02\obj\Debug\Module 10 - Patron de conception 02.pdb
+C:\Ecole\OOP2\Module-10-patron-2\Module 10 - Patron de conception 02\bin\Debug\Module 10 - Patron de conception 02.exe.config
+C:\Ecole\OOP2\Module-10-patron-2\Module 10 - Patron de conception 02\bin\Debug\Module 10 - Patron de conception 02.exe
+C:\Ecole\OOP2\Module-10-patron-2\Module 10 - Patron de conception 02\bin\Debug\Module 10 - Patron de conception 02.pdb

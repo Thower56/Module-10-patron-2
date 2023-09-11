@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace Module_10___Patron_de_conception_02
 {
-    internal class LigneFactureModel
+    public class LigneFactureModel
     {
+        public LigneFactureModel(string description, decimal quantite, decimal prixUnitaire)
+        {
+            Description = description;
+            Quantite = quantite;
+            PrixUnitaire = prixUnitaire;
+        }
+
+        public string Description { get; set; }
+        public decimal Quantite { get; set; }
+        public decimal PrixUnitaire { get; set; }
+
+
     }
 }
