@@ -14,11 +14,11 @@ namespace Module_10___Patron_de_conception_02
     {
         private FactureModel m_FactureModel = new FactureModel();
         private fClient m_ecranClient;
-
         public fPrincipale()
         {
             InitializeComponent();
             m_ecranClient = new fClient(m_FactureModel);
+            m_FactureModel.Subscribe(new ObservateurFactureModel(factureModel, (valeur) => { .(valeur); });
         }
 
         private void label1_Click(object sender, EventArgs e)

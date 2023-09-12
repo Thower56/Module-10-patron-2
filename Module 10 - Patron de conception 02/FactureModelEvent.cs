@@ -2,6 +2,7 @@
 {
     public class FactureModelEvent
     {
+        public FactureModelEvent() {; }
         public FactureModelEventType Type { get; set; }
         public LigneFactureModel LigneFactureModel { get; set; }
         public FactureModel FactureModel { get; set; }
